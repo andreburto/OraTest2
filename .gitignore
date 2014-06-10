@@ -1,0 +1,7 @@
+*.suo
+*.sln
+*.user
+*.log
+
+OraTest2/bin/
+OraTest2/obj/
